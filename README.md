@@ -1,7 +1,7 @@
 # Flutter app that talks to OpenAI.
 
 
-[See demo here](aihelper.app)
+[See demo here](http://aihelper.app)
 
 <img src="https://i.imgur.com/yNGDEyy.png" width="50%">
 
