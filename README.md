@@ -28,8 +28,8 @@ Three parts to this:
 <br/>
 To host on firebase:
 
-6a: Move/copy flutter-app/build/web into firebase directory
-6b: Setup firebase hosting
-6c: firebase deploy --only hosting
+6. Move/copy flutter-app/build/web into firebase directory
+7. Setup firebase hosting
+8. firebase deploy --only hosting
 <br />
 
