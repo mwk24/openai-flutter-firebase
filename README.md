@@ -23,7 +23,7 @@ Three parts to this:
 3. Add your OpenAI API key to firebase/functions/index.js
 4. Deploy cloud functions ("flutter deploy --only functions" from within firebase directory)
 5. Build flutter app (flutter build web). Can also build for iOS and Android
-6. Host web app [Guide]https://flutter.dev/docs/deployment/web)
+6. Host web app [Guide](https://flutter.dev/docs/deployment/web)
 
 <br/>
 To host on firebase:
