@@ -33,3 +33,4 @@ To host on firebase:
 8. firebase deploy --only hosting
 <br />
 
+Note: if you host elsewhere, you will need to use a slightly different setup in the app [Guide](https://firebase.google.com/docs/web/setup)
