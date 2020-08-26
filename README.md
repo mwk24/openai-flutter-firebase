@@ -11,6 +11,8 @@ Three parts to this:
 2. Firebase Cloud Function that calls OpenAI (/firebase/functions)
 3. Simple Flutter app (/flutter-app)
 
+<br />
+Important: This doesn't include auth, so don't make it public without being approved.
 
 <br />
 
