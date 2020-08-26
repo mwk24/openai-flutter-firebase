@@ -19,7 +19,7 @@ Three parts to this:
 1. Create a firebase project with Cloud Firestore, Cloud Functions (and Hosting if you want to host the web app on firebase)
 2. Create Firestore database with structure:
     - conversations
-    - settings/openai_config (populate document with values for: premable, first_question)
+    - settings/openai_config (populate document with values for: preamble, first_question)
 3. Add your OpenAI API key to firebase/functions/index.js
 4. Deploy cloud functions ("flutter deploy --only functions" from within firebase directory)
 5. Build flutter app (flutter build web). Can also build for iOS and Android
